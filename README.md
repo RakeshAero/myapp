@@ -6,4 +6,4 @@ ToDo List using Laravel
 
 ```git
 https://github.com/RakeshAero/myapp.git
-```git
+```
